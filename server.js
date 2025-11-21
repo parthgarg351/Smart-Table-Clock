@@ -199,8 +199,7 @@ function checkEmails() {
           "info.tpc@lnmiit.ac.in",
           "manager.placement@lnmiit.ac.in",
           "rajbirkaur@lnmiit.ac.in",
-          "mohit.gupta@lnmiit.ac.in",
-          "sunil@lnmiit.ac.in",
+          "notifications@pod.ai"
         ];
         let newEmails = [];
 
